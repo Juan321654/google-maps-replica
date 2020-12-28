@@ -1,2 +1,2 @@
 # google-maps-replica
-me attempting to make a replica of google maps
+me attempting to make a replica of google maps using mapbox
